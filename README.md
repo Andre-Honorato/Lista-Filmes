@@ -1,5 +1,7 @@
 # testes_vuetify
 
+Aplicação rodando: https://listafilmes.netlify.app/popular
+
 ## Project setup
 ```
 yarn install
