@@ -2,7 +2,8 @@
 
 Aplicação rodando: https://listafilmes.netlify.app/popular
 
-![image](https://github.com/user-attachments/assets/43df371a-58f2-42d2-ad30-072b4e5ddc67)
+![image](https://github.com/user-attachments/assets/0f4da703-3896-46c7-815a-201d48b6dd35)
+
 
 ## Project setup
 ```
