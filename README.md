@@ -2,6 +2,8 @@
 
 Aplicação rodando: https://listafilmes.netlify.app/popular
 
+![image](https://github.com/user-attachments/assets/43df371a-58f2-42d2-ad30-072b4e5ddc67)
+
 ## Project setup
 ```
 yarn install
